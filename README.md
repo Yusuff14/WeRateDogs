@@ -17,7 +17,7 @@ The three data and the approaches involved are:
 
 ### Key Insights
 The insights generated at the end of wrangling process include but not limited to the following:
-1. Statistical Distribution of WeRateDog Data
-2. Most Frequent Dog Stage
-3. Ratings Distribution between Pupper and Floofer
-4. Relationship between Ratings and People's Engagement
+1. Statistical Distribution of WeRateDog Data.
+2. Most Frequent Dog Stage.
+3. Ratings Distribution between Pupper and Floofer.
+4. Relationship between Ratings and People's Engagement.
