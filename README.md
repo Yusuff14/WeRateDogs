@@ -22,4 +22,4 @@ The insights generated at the end of wrangling process include but not limited t
 3. Ratings Distribution between Pupper and Floofer.
 4. Relationship between Ratings and People's Engagement.
 
-The sneak peek of this analysis can be found [here](https://yusuff14.github.io/WeRateDogs/)
+The sneak peek of this analysis can be found [here](https://yusuff14.github.io/WeRateDogs/).
